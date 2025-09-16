@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Greedy
 |  |

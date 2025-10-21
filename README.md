@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
 |  |
 | ------- |
@@ -48,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Binary Search
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->

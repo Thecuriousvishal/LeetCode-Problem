@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->

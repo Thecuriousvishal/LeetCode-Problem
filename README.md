@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3616-make-array-elements-equal-to-zero) |

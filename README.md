@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2618-maximize-the-minimum-powered-city) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->

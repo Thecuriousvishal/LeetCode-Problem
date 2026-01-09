@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0202-happy-number) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2169-simple-bank-system](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3863-power-grid-maintenance](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -196,9 +199,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->

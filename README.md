@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0190-reverse-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

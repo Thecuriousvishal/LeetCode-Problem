@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0401-binary-watch) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/0401-binary-watch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Thecuriousvishal/LeetCode-Problem/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
